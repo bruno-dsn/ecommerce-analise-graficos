@@ -1,3 +1,5 @@
+[![Python checks](https://github.com/bruno-dsn/ecommerce-analise-graficos/actions/workflows/tests.yml/badge.svg)](https://github.com/bruno-dsn/ecommerce-analise-graficos/actions/workflows/tests.yml)
+
 <div align="center">
 
 # Laboratório de Demanda, Preço e Margem
@@ -220,3 +222,8 @@ Veja o raciocínio completo em [Decisões do projeto](docs/decisoes-do-projeto.m
 **Bruno Nunes**
 Ciência de Dados e Inteligência Artificial aplicada
 [LinkedIn](https://www.linkedin.com/in/bruno-dsnunes/) | [GitHub](https://github.com/bruno-dsn)
+
+
+## Verificação automatizada
+
+O workflow [Python checks](.github/workflows/tests.yml) instala as dependências de desenvolvimento e executa a suíte de testes em Python 3.12 a cada push ou pull request. O badge acima mostra o resultado real da execução, sem um número fixo de testes.
