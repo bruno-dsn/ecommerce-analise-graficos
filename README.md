@@ -1,21 +1,20 @@
-[![Python checks](https://github.com/bruno-dsn/ecommerce-analise-graficos/actions/workflows/tests.yml/badge.svg)](https://github.com/bruno-dsn/ecommerce-analise-graficos/actions/workflows/tests.yml)
-
-<div align="center">
-
 # Laboratório de Demanda, Preço e Margem
 
-**Ciência de dados aplicada a decisões comerciais de e-commerce**
+![Laboratório de Demanda, Preço e Margem](assets/portfolio-cover.svg)
 
-[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.61-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Pandas](https://img.shields.io/badge/Pandas-3.0-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-6.9-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/)
-[![Tests](https://img.shields.io/badge/Testes-automatizados-4ED6A3?style=for-the-badge)](#qualidade-e-testes)
-[![License](https://img.shields.io/badge/Licença-MIT-8A63D2?style=for-the-badge)](LICENSE)
+Investigue demanda, conversão e rentabilidade em um cenário reproduzível de comércio eletrônico. Os dados padrão são sintéticos; a aplicação também aceita CSV no contrato documentado.
 
-</div>
+[Como executar](#como-executar) · [Dados e método](docs/dados-e-metodologia.md) · [Testes](tests/) · [Histórico](https://github.com/bruno-dsn/ecommerce-analise-graficos/commits/main)
 
-![Visão geral do laboratório](assets/painel_ecommerce.png)
+[![Verificações Python](https://github.com/bruno-dsn/ecommerce-analise-graficos/actions/workflows/tests.yml/badge.svg)](https://github.com/bruno-dsn/ecommerce-analise-graficos/actions/workflows/tests.yml) · [Licença MIT](LICENSE)
+
+## Veja a aplicação
+
+![Captura real da interface revisada](assets/interface-desktop.png)
+
+Captura da aplicação executada localmente com os dados de demonstração. A fonte dos dados, os filtros e as hipóteses permanecem visíveis no painel.
+
+**Primeira exploração:** Filtre um período; compare contribuição e volume; teste uma hipótese no simulador comercial.
 
 ## O problema de negócio
 
